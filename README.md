@@ -7,8 +7,7 @@ The aim of this project is to learn about programming in the **Python language**
 * Scripts Tested on Ubuntu 20.04 LTS
 * Vi editor
 
-## Projects
-Scripts written in Python:
+## Project Done
 
 | Project name | Description |
 | ------------ | ----------- |
