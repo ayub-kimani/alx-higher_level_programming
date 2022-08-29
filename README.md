@@ -3,7 +3,7 @@
 The aim of this project is to learn about programming in the **Python language**.
 
 ## Technologies
-* Scripts written in Bash 5.1.16(1)
+* Scripts written in Bash 5.0.17(1)
 * Scripts Tested on Ubuntu 20.04 LTS
 * Vi editor
 
